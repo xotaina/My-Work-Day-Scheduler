@@ -29,3 +29,10 @@ My work day scheduler that allows users to save, edit, and manage tasks for diff
         The dynamically added CSS classes update the appearance of the time-blocks in real-time, providing visual feedback to the user based on the current time.
 
 Overall, the work day scheduler combines the use of local storage for storing and retrieving task data with dynamic updates to the user interface based on the current time. This allows users to conveniently save, edit, and manage their tasks throughout the work day, with visual indicators of the task status based on the current time.
+
+# Project image
+<img width="960" alt="my work day 1" src="https://github.com/xotaina/Taina-Work-Day-Scheduler/assets/123917857/fa381d6f-22bd-4bd0-a903-5fcdb9f972b4">
+
+<img width="960" alt="my work day 2" src="https://github.com/xotaina/Taina-Work-Day-Scheduler/assets/123917857/88f0cc9c-5364-4b4a-9648-fdb8b1c379dd">
+
+<img width="960" alt="my work day 3" src="https://github.com/xotaina/Taina-Work-Day-Scheduler/assets/123917857/976c00c5-51a7-4e40-81ed-78cbc92d04ad">
